@@ -1,6 +1,6 @@
 # RocketChat Updater para Ubuntu 🚀
 
-O `rocketchat_updater.sh` é um script bash feito especialmente para servidores Ubuntu. Ele foi desenvolvido para proporcionar uma atualização gradual e manual do RocketChat, passando por versões específicas até a versão mais recente.
+O `rocketchat_update.sh` é um script bash feito especialmente para servidores Ubuntu. Ele foi desenvolvido para proporcionar uma atualização gradual e manual do RocketChat, passando por versões específicas até a versão mais recente.
 
 ## 🌟 Características
 
